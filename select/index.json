@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Bite you",
+  "base_artist": "muque",
+  "createdAt": "2025-12-03T09:40:38.442540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bite You",
+      "artist": "Lene",
+      "has_synced": false,
+      "path": "select/01_Bite_You_Lene.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Bite You",
+      "artist": "Lydia",
+      "has_synced": true,
+      "path": "select/02_I'll_Bite_You_Lydia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Love Bug Will Bite You",
+      "artist": "Vera Lynn",
+      "has_synced": false,
+      "path": "select/03_The_Love_Bug_Will_Bite_You_Vera_Lynn.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Love Bug Will Bite You",
+      "artist": "The Mills Brothers",
+      "has_synced": false,
+      "path": "select/04_The_Love_Bug_Will_Bite_You_The_Mills_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bite you",
+      "artist": "muque",
+      "has_synced": true,
+      "path": "select/05_Bite_you_muque.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Love Bug Will Bite You",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_The_Love_Bug_Will_Bite_You_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bite you",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/07_Bite_you_muque.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bite You Slowly",
+      "artist": "Feyesal/Shiloh",
+      "has_synced": true,
+      "path": "select/08_Bite_You_Slowly_Feyesal_Shiloh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bite you",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_Bite_you_muque.txt"
+    }
+  ]
+}
